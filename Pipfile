@@ -37,7 +37,7 @@ Werkzeug = "==1.0.1"
 WTForms = "==2.3.1"
 beautifulsoup4 = "==4.9.0"
 bs4 = "==0.0.1"
-lxml = "==4.5.0"
+lxml = "==4.6.2"
 soupsieve = "==2.0"
 
 [requires]
